@@ -1,6 +1,6 @@
 import React from 'react';
 import Hero from '../components/Hero';
-import Client from '../components/Client';
+import Additional from '../components/Additional';
 
 
 const IndexPage = () => {
@@ -8,7 +8,7 @@ const IndexPage = () => {
   <div>
     <Hero />
     <main id="main">
-      <Client />
+      <Additional />
     </main>
   </div>
   )

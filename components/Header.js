@@ -40,6 +40,7 @@ const Header = () => {
           <nav id="navbar" ref={ref} className={`${navbarOpen && size.width < 992 ? 'navbar navbar-mobile' : 'navbar'}`}>
             <ul>
               <li><a onClick={() => setNavbarOpen((prev) => !prev)} className="nav-link" href="/#hero">หน้าแรก</a></li>
+              <li><a onClick={() => setNavbarOpen((prev) => !prev)} className="nav-link" href="/#additional">โปรแทนดิม</a></li>
             </ul>
           </nav>
         </div>

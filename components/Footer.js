@@ -19,6 +19,7 @@ const Footer = () => {
               <h4>Useful Links</h4>
               <ul>
                 <li><i className="bi bi-chevron-right"></i><a className="nav-link" href="/#hero">หน้าแรก</a></li>
+                <li><i className="bi bi-chevron-right"></i><a className="nav-link" href="/#additional">โปรแทนดิม</a></li>
               </ul>
             </div>
 
