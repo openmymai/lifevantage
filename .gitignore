@@ -74,4 +74,3 @@ typings/
 # dotenv environment variables file
 .next
 out
-.env
