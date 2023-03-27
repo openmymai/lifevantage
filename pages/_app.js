@@ -11,7 +11,7 @@ import '../styles/style.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-const App = ({ Component, pageProps }) => {
+const MyApp = ({ Component, pageProps }) => {
   const router = useRouter();
 
   useEffect(() => {
@@ -59,4 +59,4 @@ const App = ({ Component, pageProps }) => {
   )
 };
 
-export default App;
+export default MyApp;

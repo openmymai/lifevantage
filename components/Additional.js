@@ -22,7 +22,7 @@ const Additional = () => {
 
 
           <div className="row additional-container" data-aos="fade-up" data-aos-delay="200">
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3617.JPG"
@@ -34,7 +34,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3627.JPG"
@@ -46,7 +46,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3607.JPG"
@@ -58,7 +58,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3609.JPG"
@@ -70,7 +70,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3610.JPG"
@@ -82,7 +82,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3597.JPG"
@@ -94,7 +94,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3628.JPG"
@@ -106,7 +106,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3606.JPG"
@@ -118,7 +118,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3605.JPG"
@@ -130,7 +130,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3628.JPG"
@@ -142,7 +142,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3618.JPG"
@@ -154,7 +154,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3608.JPG"
@@ -166,7 +166,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3620.JPG"
@@ -178,7 +178,7 @@ const Additional = () => {
               </div>
             </div>
 
-            <div className="col-lg-6 col-md-8 additional-item filter-app">
+            <div className="col-md-10 offset-md-1 additional-item filter-app">
               <div className="additional-img">
                 <Image
                   src="/img/IMG_3612.JPG"
