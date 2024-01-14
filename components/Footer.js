@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="row">
 
             <div className="col-lg-6">
-              <h3>LifeVantage Lamphun Team</h3>
+              <h3>LifeVantage Lamphun</h3>
               <h6>
                 ลำพูน, Lamphun<br />
                 ประเทศไทย, Thailand<br /><br />
